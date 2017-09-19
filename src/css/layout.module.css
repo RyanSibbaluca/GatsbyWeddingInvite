@@ -1,0 +1,6 @@
+.container {
+    padding: 1.25rem 1rem;
+    background: url('../assets/bg3.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
